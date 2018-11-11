@@ -128,6 +128,8 @@ To achieve this, first build a docker image of your app by running:
 
 Then run:
 
+1213123312
+
     docker-compose -f src/main/docker/app.yml up -d
 
 For more information refer to [Using Docker and Docker-Compose][], this page also contains information on the docker-compose sub-generator (`jhipster docker-compose`), which is able to generate docker configurations for one or several JHipster applications.
